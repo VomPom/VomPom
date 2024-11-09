@@ -24,6 +24,4 @@
 ![Vompom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vompom&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=java)
 
 
-<a href="https://stats.hyochan.dev/en/stats/vompom"><img src="https://stats.hyochan.dev/api/github-stats?login=vompom" width="600" /></a>
-
 
