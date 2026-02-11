@@ -19,6 +19,9 @@
 
 [![Github Follow](https://img.shields.io/github/followers/vompom?label=Follow%20Me&style=social)](https://github.com/Vompom)
 
+### Recent Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
